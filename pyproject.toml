@@ -1,7 +1,7 @@
 [project]
 name = "sorteo-presentaciones"
 version = "0.1.0"
-description = "Repositorio didactico para sortear el orden de presentacion de trabajos finales"
+description = "Repositorio para sortear el orden de presentacion de trabajos finales"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
